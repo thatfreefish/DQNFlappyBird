@@ -4,7 +4,7 @@
 ## Overview
 This project follows the description of the Deep Q Learning algorithm described in Playing Atari with Deep Reinforcement Learning [2] and shows that this learning algorithm can be further generalized to the notorious Flappy Bird.
 
-![image](https://github.com/ZhangRui111/ReDeepLearningFlappyBird/blob/master/images/bird_demo.gif)
+![image](./images/bird_demo.gif)
 
 7 mins version: [DQN for flappy bird](https://www.youtube.com/watch?v=THhUXIhjkCM)
 
@@ -123,7 +123,7 @@ INITIAL_EPSILON = 0.1
 ## Disclaimer
 This work is highly based on the following repos:
 
-1. [sourabhv/FlapPyBird] (https://github.com/sourabhv/FlapPyBird)
+1. [sourabhv/FlapPyBird](https://github.com/sourabhv/FlapPyBird)
 2. [asrivat1/DeepLearningVideoGames](https://github.com/asrivat1/DeepLearningVideoGames)
 3. [yenchenlin/DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird)
 
